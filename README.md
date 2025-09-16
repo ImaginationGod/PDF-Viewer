@@ -5,7 +5,7 @@ It lets you upload PDFs, view them, highlight text, and manage your personal lib
 
 ## 🌐 Live Demo
 
-Try the app online: [FinanceTracker Live](https://financetracker-svwv.onrender.com)  
+Try the app online: [PDF Viewer Live](https://pdf-viewer-x206.onrender.com)  
 
 ---
 
